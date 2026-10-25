@@ -1,5 +1,5 @@
 {
   "clientes": {
-    "c01": { "ativo": true, "expira": "2026-12-31", "mensagem": "" }
+    "c01": { "ativo": false, "expira": "2026-12-31", "mensagem": "" }
   }
 }
